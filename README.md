@@ -22,7 +22,7 @@ Create a to-do application using the provided boilerplate.
 
 ## Setup
 
-Start by forking this repository, cloning it your local environment, and changing into its directory.
+Start by forking this repository, clone it to your local environment, and change into the cloned repository's root directory.
 
 ```shell
 npm install
