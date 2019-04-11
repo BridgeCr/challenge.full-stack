@@ -60,11 +60,11 @@ npm run lint
 
 > A short-term in-memory storage mechanism such as localStorage or a simple array in NodeJS-land is fine.
 
-### 2.) Should the final project be deployed to a public accessible server?
+### 2.) Should the final project be deployed to a publicly accessible server?
 
 > This is not a requirement.
 
-### 3.) Should the application provide user access and/or control features?
+### 3.) Should the application provide user access-control features?
 
 > This is not a requirement.
 
